@@ -1,0 +1,15 @@
+.details-page-container {
+
+}
+
+.movie-info-container {
+    display: flex;
+}
+
+.movie-info-container > div {
+    flex-grow: 1;
+  }
+
+img {
+
+}

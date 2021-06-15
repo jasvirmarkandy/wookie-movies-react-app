@@ -1,0 +1,10 @@
+.genre-list {
+    display: flex;
+    min-width: 100%;
+    min-height: 200px;
+    overflow-x: auto
+}
+
+.genre-list::-webkit-scrollbar {
+    display: none;
+  }
